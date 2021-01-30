@@ -1,0 +1,27 @@
+div {
+  text-align: center;
+}
+#body{
+    background-color: black;
+}
+h1 {
+  font-size: 50px;
+  font-family: sans-serif;
+  color: blueviolet;
+}
+
+button {
+  width: 250px;
+  height: 80px;
+  background-color: rgb(36, 229, 255);
+  color: white;
+}
+
+p {
+  font-size: 35px;
+  color: aqua;
+}
+
+button:hover {
+  background-color: rgb(145, 151, 145);
+}

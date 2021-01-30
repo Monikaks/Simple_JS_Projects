@@ -1,0 +1,27 @@
+body {
+  background-color: #080808;
+  text-align: center;
+}
+input {
+  margin: 100px auto 100px;
+  width: 350px;
+  height: 40px;
+  display: block;
+  text-align: center;
+}
+#output {
+  margin-top: 45px;
+  width: 100px;
+  background: rgb(210, 241, 210);
+  margin: 100px auto 100px;
+}
+#btn {
+  width: 350px;
+  height: 80px;
+  color: #fff;
+  background-color: rgb(77, 235, 111);
+}
+h1 {
+  color: rgb(4, 203, 253);
+  margin-top: 50px;
+}
